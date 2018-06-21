@@ -12,6 +12,7 @@ int main()
 	printf("2 != ( 1 || 0 ): %d\n", 2 != ( 1 || 0 )); 	// Another NOT example
 	printf("!( 1 || (1 && 0) ): %d\n", !( 1 || (1 && 0) ));	// AND is evaluated before OR
 	printf("!(( 1 || 0) && 0): %d\n", !(( 1 || 0) && 0));  // Parenthesis are useful
+	getchar();
 
 	return 0;
 }
