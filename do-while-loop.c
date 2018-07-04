@@ -1,5 +1,7 @@
 /*
 This program demonstrates a simple do-while loop in C.
+A do-while loop's code will execute once whether or not
+the while condition evaluates to true.
 */
 
 #include <stdio.h>
