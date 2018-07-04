@@ -26,5 +26,6 @@ int main()
 	getchar(); // Used to clear the '\n' character read from scanf
 	puts("\nPress ENTER to exit...");
 	getchar();
+
 	return 0;
 }
